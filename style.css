@@ -1,0 +1,30 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600 !important;
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600 !important;
+}
+h5{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600 !important;
+}
+.lista{
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+.objetivo{
+  font-size: 1.5rem;
+}
+
+.contato{
+  font-size: 1.2rem;
+}
+.especial{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400 !important;
+}
